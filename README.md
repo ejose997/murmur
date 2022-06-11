@@ -1,2 +1,2 @@
 # murmur
-Personal Knowledge Management (PKM) Cli 
+Personal Knowledge Management (PKM) CLI
